@@ -2,7 +2,7 @@ import math
 
 class Calculator:
     """
-    A simple calculator class with basic arithmetic operations, including division by zero protection.
+    A simple calculator class with basic arithmetic operations and square root, including division by zero protection.
     """
 
     def add(self, a, b):
@@ -31,11 +31,17 @@ class Calculator:
             raise ValueError("Cannot divide by zero.")
         return a / b
 
+    def square_root(self, x):
+        """
+        Calculates the square root of x.
+        """
+        return math.sqrt(x)
+
 if __name__ == "__main__":
     # Create an instance of the Calculator class
     calculator = Calculator()
 
-    # Define the numbers for calculations
+    # Define the numbers for basic arithmetic calculations
     num1 = 16
     num2 = 4
 
@@ -50,3 +56,9 @@ if __name__ == "__main__":
 
     # Perform and print division
     print(f"{num1} / {num2} = {calculator.divide(num1, num2)}")
+
+    # Define a number for square root calculation
+    num3 = 25
+
+    # Perform and print the square root calculation
+    print(f"The square root of {num3} = {calculator.square_root(num3)}")
