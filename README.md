@@ -1,6 +1,4 @@
-🚀 Git Assignment - Hero Vired
-
- 
+**🚀 Git Assignment - Hero Vired**
 
 This repository contains the Git assignment for the Hero Vired DevOps Cloud Engineering Certification program. It demonstrates best practices in version control, branching strategies, feature implementation, and collaborative development using Git.
 
