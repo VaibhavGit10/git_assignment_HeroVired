@@ -237,13 +237,13 @@ Follow these steps to set up and run the project.
 git clone https://github.com/yourusername/git-assignment.git
 cd git-assignment
 ```
-###2️⃣ Install dependencies (if any):
+### 2️⃣ Install dependencies (if any):
 ```bash
 Copy
 Edit
 pip install -r requirements.txt
 ```
-###3️⃣ Set up Git LFS (if required):
+### 3️⃣ Set up Git LFS (if required):
 ```bash
 git lfs install
 git lfs pull
