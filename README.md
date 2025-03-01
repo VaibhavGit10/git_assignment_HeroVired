@@ -14,14 +14,14 @@ This project showcases various **Git features and workflows**, helping developer
 
 ## Table of Contents
 
-1. [Screenshots](#Screenshots)  
-2. [📌 Installation](#installation)  
+1. [Screenshots](#screenshots)  
+2. [Installation](#installation)  
 3. [Assignment Workflow](#assignment-workflow)  
 4. [Contribution Guidelines](#contribution-guidelines)  
 5. [Support](#support)  
 6. [Credits](#credits)  
 7. [License](#license)  
-8. [Forking This Project](#forking-this-project)  
+8. [Forking This Project](#forking-this-project)    
 ---
 
 ## Screenshots
