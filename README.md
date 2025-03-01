@@ -8,7 +8,12 @@
 
 _Showcasing key aspects of the project:_
 
-### Q1 - Implementing Square Root Feature
+### Q1 - Implementing Square Root Feature:
+
+- Implemented a function to calculate square roots accurately.
+- Debugged issues related to floating-point precision.
+- Verified output with multiple test cases.
+
 ![Q1_Img_01](https://github.com/user-attachments/assets/772eaa05-82e5-4025-b019-937f6422f3c8)
 
 ![Q1_Img_02](https://github.com/user-attachments/assets/78a6330b-6895-4b4e-b6bd-e7d7879a7236)
