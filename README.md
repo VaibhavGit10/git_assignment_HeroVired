@@ -11,7 +11,7 @@
 _Showcasing key aspects of the project:_
 
 ### Q1 - Implementing Square Root Feature
-![Q1 Screenshot 1](screenshots/Q1_Img_01.png)
+![Q1 Screenshot 1]![Q1_Img_01](https://github.com/user-attachments/assets/2cfcc373-4b13-4a06-8ad5-71e0c5cf8b09)
 ![Q1 Screenshot 2](screenshots/Q1_Img_02.png)
 ![Q1 Screenshot 3](screenshots/Q1_Img_03.png)
 ...
