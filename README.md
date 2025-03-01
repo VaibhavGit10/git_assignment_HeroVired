@@ -296,6 +296,12 @@ This project is developed and maintained by [Your Name]. Special thanks to all c
 
 ---
 
+## 📚 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+---
+
 ## 🔗 Forking This Project
 
 If you’d like to fork this project, follow these steps:
