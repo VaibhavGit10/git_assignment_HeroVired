@@ -15,7 +15,7 @@ This project showcases various **Git features and workflows**, helping developer
 ## Table of Contents
 
 1. [Screenshots](#screenshots)  
-2. [Installation](#installation)  
+2. [Installation](#-installation)  
 3. [Assignment Workflow](#assignment-workflow)  
 4. [Contribution Guidelines](#contribution-guidelines)  
 5. [Support](#support)  
@@ -228,7 +228,7 @@ _Showcasing key aspects of the project:_
 ---
 ---
 
-## 📌Installation
+## 📌 Installation
 
 Follow these steps to set up and run the project.
 
