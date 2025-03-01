@@ -78,7 +78,7 @@ This section outlines the key steps to implement the required features in the re
      ```
    - Track large files (e.g., `.zip`, `.mp4`):
      ```sh
-     git lfs track "*.zip"
+     git lfs track "*.bin"
      ```
    - Commit `.gitattributes` file.
 
