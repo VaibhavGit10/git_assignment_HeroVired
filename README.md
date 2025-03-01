@@ -34,8 +34,8 @@ _Showcasing key aspects of the project:_
 - Debugged issues related to floating-point precision.
 - Verified output with multiple test cases.
 
-![Q1_Img_01](https://github.com/user-attachments/assets/772eaa05-82e5-4025-b019-937f6422f3c8) 
-![Q1_Img_02](https://github.com/user-attachments/assets/78a6330b-6895-4b4e-b6bd-e7d7879a7236)
+|![Q1_Img_01](https://github.com/user-attachments/assets/772eaa05-82e5-4025-b019-937f6422f3c8) |
+|![Q1_Img_02](https://github.com/user-attachments/assets/78a6330b-6895-4b4e-b6bd-e7d7879a7236) |
 ![Q1_Img_03](https://github.com/user-attachments/assets/008d624a-39ed-4d1b-97a7-c302fc253156)
 ![Q1_Img_04](https://github.com/user-attachments/assets/b65d6203-5fea-42db-9167-a1942ed74f7a)
 ![Q1_Img_05](https://github.com/user-attachments/assets/c78d1345-16df-424f-8640-640bedf642d4)
