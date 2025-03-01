@@ -14,7 +14,7 @@ This project showcases various **Git features and workflows**, helping developer
 
 ## Table of Contents
 
-1. [Screenshots](#screenshots)  
+1. [Screenshots](#📸Screenshots)  
 2. [Installation](#installation)  
 3. [Assignment Workflow](#assignment-workflow)  
 4. [Contribution Guidelines](#contribution-guidelines)  
@@ -24,7 +24,7 @@ This project showcases various **Git features and workflows**, helping developer
 8. [Forking This Project](#forking-this-project)  
 ---
 
-## 📸 Screenshots
+## 📸Screenshots
 
 _Showcasing key aspects of the project:_
 
