@@ -249,7 +249,7 @@ git lfs install
 git lfs pull
 ```
 
-## 🛠️Assignment Workflow
+## Assignment Workflow
 
 ### Q1 - Implementing Square Root Feature
 - Created repository `git_assignment_HeroVired`.
