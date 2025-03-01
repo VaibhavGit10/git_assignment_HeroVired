@@ -228,7 +228,7 @@ _Showcasing key aspects of the project:_
 ---
 ---
 
-## 📌 Installation
+## 📌Installation
 
 Follow these steps to set up and run the project.
 
@@ -249,7 +249,7 @@ git lfs install
 git lfs pull
 ```
 
-## 🛠️ Assignment Workflow
+## 🛠️Assignment Workflow
 
 ### Q1 - Implementing Square Root Feature
 - Created repository `git_assignment_HeroVired`.
@@ -273,7 +273,7 @@ git lfs pull
 
 ---
 
-## 🤝 Contribution Guidelines
+## 🤝Contribution Guidelines
 
 We welcome contributions! To get started:
 1. Fork the repository.
@@ -284,19 +284,19 @@ We welcome contributions! To get started:
 
 ---
 
-## 💡 Support
+## 💡Support
 
 If you encounter any issues or need help, feel free to open an issue in the repository or reach out to me directly.
 
 ---
 
-## 🏆 Credits
+## 🏆Credits
 
 This project is developed and maintained by [Your Name]. Special thanks to all contributors and reviewers who helped enhance this project.
 
 ---
 
-## 🔗 Forking This Project
+## 🔗Forking This Project
 
 If you’d like to fork this project, follow these steps:
 1. Click the **Fork** button at the top right of this repository.
