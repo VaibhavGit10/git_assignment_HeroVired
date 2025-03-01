@@ -16,7 +16,7 @@ This project showcases various **Git features and workflows**, helping developer
 
 1. [Screenshots](#-screenshots)  
 2. [Installation](#-installation)  
-3. [Assignment Workflow](#--assignment-workflow)  
+3. [Assignment Workflow](#-assignment-workflow)  
 4. [Contribution Guidelines](#-contribution-guidelines)  
 5. [Support](#-support)  
 6. [Credits](#-credits)  
