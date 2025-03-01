@@ -117,21 +117,25 @@ _Showcasing key aspects of the project:_
 
 ### Q2 - Handling Large Files with Git LFS:
 
+### 1. Initializing Git LFS and Creating the `lfs` Branch
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/cd5bfe89-4891-4c77-8fd5-a914606db938" width="45%">
     <img src="https://github.com/user-attachments/assets/1628eb64-5929-43dc-bdde-4952b8362165" width="45%">
 </div>
 
+### 2. Tracking Large Files and Adding Them to Git LFS
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/f7b43e29-ee6b-41ef-a7ff-dd80e5959633" width="45%">
     <img src="https://github.com/user-attachments/assets/9a02e3f3-6709-4c5b-8d69-1d7f647a2862" width="45%">
 </div>
 
+### 3. Committing and Pushing the Large File to the Repository
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/e02fc45c-4b91-48e3-ac0b-078e80c288ac" width="45%">
     <img src="https://github.com/user-attachments/assets/e3232a49-6f8b-455d-916e-b3d2d4156bfd" width="45%">
 </div>
 
+### 4. Cloning the Repository and Verifying Git LFS Functionality
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/f0e28fb4-35fb-441f-91b1-f53505040409" width="45%">
     <img src="https://github.com/user-attachments/assets/f93b0ad3-a70d-4744-b783-6eba99cdd07e" width="45%">
