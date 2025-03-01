@@ -14,16 +14,194 @@ This project showcases various **Git features and workflows**, helping developer
 
 ## Table of Contents
 
-1. [Screenshots](#-screenshots)  
-2. [Installation](#-installation)  
-3. [Assignment Workflow](#-assignment-workflow)  
+1. [Implementing Solution](#-implementing-solution)   
+2. [Installation](#-installation) 
+3. [Assignment Workflow](#-assignment-workflow) 
 4. [Contribution Guidelines](#-contribution-guidelines)  
 5. [Support](#-support)  
 6. [Credits](#-credits)  
 7. [License](#-license)  
-8. [Forking This Project](#-forking-this-project)    
+8. [Forking This Project](#-forking-this-project)  
+9. [Screenshots](#-screenshots)  
+  
+---
+## 🚀 Implementing Solution
+
+
+This section outlines the key steps to implement the required features in the repository.
+
+### 📌 Q1: Implementing Square Root Feature in "CalculatorPlus"
+
+1. **Create Repository & Branch**
+   - Create a GitHub repository named `git_assignment_HeroVired`.
+   - Create a new branch `dev` and add the provided calculator code.
+
+2. **Implement Square Root Feature**
+   - Uncomment and implement the `square_root()` function.
+   - Test the function by uncommenting the test code.
+
+3. **Merge and Release Version 1**
+   - Merge `dev` into `main`.
+   - Create a release tagged as `v1.0`.
+
+4. **Add Collaborators**
+   - Invite a classmate as a collaborator on the repository.
+
+5. **Feature Branch for Square Root**
+   - Create a new branch `feature/sqrt`.
+   - Add the square root functionality in this branch.
+
+6. **Fix Critical Bug**
+   - Switch to `dev` branch.
+   - Fix the divide-by-zero bug in the `divide()` function.
+   - Merge the bug fix while keeping `feature/sqrt` up to date.
+
+7. **Pull Request and Code Review**
+   - Create a pull request to merge `feature/sqrt` into `main`.
+   - Request a code review and apply suggested improvements.
+
+8. **Final Merge and Release Version 2**
+   - Merge `feature/sqrt` into `dev` and then into `main`.
+   - Release `v2.0` with all features and fixes.
+
 ---
 
+### 📌 Q2: Implementing Git LFS for Large Files
+
+1. **Create LFS Branch**
+   - Create a new branch `lfs` in `git_assignment_HeroVired`.
+
+2. **Install & Initialize Git LFS**
+   - Run:  
+     ```sh
+     git lfs install
+     ```
+   - Track large files (e.g., `.zip`, `.mp4`):
+     ```sh
+     git lfs track "*.zip"
+     ```
+   - Commit `.gitattributes` file.
+
+3. **Upload Large File**
+   - Add and commit a file >200MB.
+   - Push changes to `lfs` branch.
+
+4. **Verify by Cloning on Another Machine**
+   - Clone the repository on a different system.
+   - Ensure large files download correctly.
+
+---
+
+### 📌 Q3: Implementing Geometry Calculator with Git Stash
+
+1. **Create `geometry-calculator` Branch**
+   - Create a new branch `geometry-calculator`.
+
+2. **Work on Circle Area Feature**
+   - Create a `feature/circle-area` branch.
+   - Implement `calculate_circle_area()`.
+   - Use `git stash` to save progress.
+
+3. **Work on Rectangle Area Feature**
+   - Switch to `feature/rectangle-area` branch.
+   - Implement `calculate_rectangle_area()`.
+   - Use `git stash` to save progress.
+
+4. **Restore Stashed Changes & Complete Features**
+   - Switch back to `feature/circle-area`, apply stash, finalize code.
+   - Commit and push changes.
+   - Repeat for `feature/rectangle-area`.
+
+5. **Create Pull Requests & Merge**
+   - Create pull requests for both features.
+   - Review, merge into `dev`, then into `main`.
+
+---
+---
+
+## 📌 Installation
+
+Follow these steps to set up and run the project.
+
+### 1️⃣ Clone the repository:
+```bash
+git clone https://github.com/yourusername/git-assignment.git
+cd git-assignment
+```
+### 2️⃣ Install dependencies (if any):
+```bash
+Copy
+Edit
+pip install -r requirements.txt
+```
+### 3️⃣ Set up Git LFS (if required):
+```bash
+git lfs install
+git lfs pull
+```
+
+## 🛠️ Assignment Workflow
+
+### Q1 - Implementing Square Root Feature
+- Created repository `git_assignment_HeroVired`.
+- Developed square root function and merged into `main`.
+- Addressed a critical bug in `divide` function.
+- Released `v1` and `v2` with reviewed changes.
+
+---
+
+### Q2 - Handling Large Files with Git LFS
+- Created a branch `lfs`.
+- Integrated Git LFS to track and push large files.
+- Verified file handling by cloning on another machine.
+
+---
+
+### Q3 - Geometry Calculator Using Git Stash
+- Implemented area calculation for circle and rectangle.
+- Used `git stash` to switch between features.
+- Completed and merged both features after review.
+
+---
+
+## 🤝 Contribution Guidelines
+
+We welcome contributions! To get started:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add a new feature'`).
+4. Push to your forked repository (`git push origin feature-branch`).
+5. Submit a pull request for review.
+
+---
+
+## 💡 Support
+
+If you encounter any issues or need help, feel free to open an issue in the repository or reach out to me directly.
+
+---
+
+## 🏆 Credits
+
+This project is developed and maintained by [Your Name]. Special thanks to all contributors and reviewers who helped enhance this project.
+
+---
+
+## 📚 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## 🔗 Forking This Project
+
+If you’d like to fork this project, follow these steps:
+1. Click the **Fork** button at the top right of this repository.
+2. Clone your forked repository: `git clone https://github.com/your-username/repository-name.git`
+3. Make your changes and push them to your forked repository.
+4. Open a pull request to contribute your changes back.
+
+---
 ## 📸 Screenshots
 
 _Showcasing key aspects of the project:_
@@ -230,90 +408,6 @@ _Showcasing key aspects of the project:_
 
 
 ---
----
 
-## 📌 Installation
-
-Follow these steps to set up and run the project.
-
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/yourusername/git-assignment.git
-cd git-assignment
-```
-### 2️⃣ Install dependencies (if any):
-```bash
-Copy
-Edit
-pip install -r requirements.txt
-```
-### 3️⃣ Set up Git LFS (if required):
-```bash
-git lfs install
-git lfs pull
-```
-
-## 🛠️ Assignment Workflow
-
-### Q1 - Implementing Square Root Feature
-- Created repository `git_assignment_HeroVired`.
-- Developed square root function and merged into `main`.
-- Addressed a critical bug in `divide` function.
-- Released `v1` and `v2` with reviewed changes.
-
----
-
-### Q2 - Handling Large Files with Git LFS
-- Created a branch `lfs`.
-- Integrated Git LFS to track and push large files.
-- Verified file handling by cloning on another machine.
-
----
-
-### Q3 - Geometry Calculator Using Git Stash
-- Implemented area calculation for circle and rectangle.
-- Used `git stash` to switch between features.
-- Completed and merged both features after review.
-
----
-
-## 🤝 Contribution Guidelines
-
-We welcome contributions! To get started:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add a new feature'`).
-4. Push to your forked repository (`git push origin feature-branch`).
-5. Submit a pull request for review.
-
----
-
-## 💡 Support
-
-If you encounter any issues or need help, feel free to open an issue in the repository or reach out to me directly.
-
----
-
-## 🏆 Credits
-
-This project is developed and maintained by [Your Name]. Special thanks to all contributors and reviewers who helped enhance this project.
-
----
-
-## 📚 License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
----
-
-## 🔗 Forking This Project
-
-If you’d like to fork this project, follow these steps:
-1. Click the **Fork** button at the top right of this repository.
-2. Clone your forked repository: `git clone https://github.com/your-username/repository-name.git`
-3. Make your changes and push them to your forked repository.
-4. Open a pull request to contribute your changes back.
-
----
 
 🌟 **If you find this project helpful, consider giving it a star! Your support is much appreciated.** 🌟
