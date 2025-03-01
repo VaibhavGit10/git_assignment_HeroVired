@@ -13,23 +13,16 @@ Handling large files using Git LFS.
 Efficiently using Git stash for managing multiple feature implementations.
 ---
 
-📖 Table of Contents
+## Table of Contents
 
-Screenshots
-
-Installation
-
-Assignment Workflow
-
-Contribution Guidelines
-
-Support
-
-Credits
-
-License
-
-Forking This Project
+1. [Screenshots](#screenshots)  
+2. [Installation](#installation)  
+3. [Assignment Workflow](#assignment-workflow)  
+4. [Contribution Guidelines](#contribution-guidelines)  
+5. [Support](#support)  
+6. [Credits](#credits)  
+7. [License](#license)  
+8. [Forking This Project](#forking-this-project)  
 ---
 
 ## 📸 Screenshots
