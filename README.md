@@ -11,106 +11,41 @@
 _Showcasing key aspects of the project:_
 
 ### Q1 - Implementing Square Root Feature
-![Calculator Setup](screenshots/Q1_Img_02.png)
-![Branching and Development](screenshots/Q1_Img_03.png)
-![Feature Implementation](screenshots/Q1_Img_04.png)
-![Final Testing](screenshots/Q1_Img_05.png)
+![Q1 Screenshot 1](screenshots/Q1_Img_01.png)
+![Q1 Screenshot 2](screenshots/Q1_Img_02.png)
+![Q1 Screenshot 3](screenshots/Q1_Img_03.png)
+...
+![Q1 Screenshot 30](screenshots/Q1_Img_30.png)
 
 ### Q2 - Handling Large Files with Git LFS
-
+![Q2 Screenshot 1](screenshots/Q2_Img_01.png)
+![Q2 Screenshot 2](screenshots/Q2_Img_02.png)
+...
+![Q2 Screenshot 7](screenshots/Q2_Img_07.png)
 
 ### Q3 - Geometry Calculator Using Git Stash
-![Circle Area Feature](screenshots/Q3_Img_1.png)
-![Rectangle Area Feature](screenshots/Q3_Img_2.png)
+![Q3 Screenshot 1](screenshots/Q3_Img_01.png)
+![Q3 Screenshot 2](screenshots/Q3_Img_02.png)
+...
+![Q3 Screenshot 31](screenshots/Q3_Img_31.png)
 
-## 🛠️ Assignment Questions and Workflow
+## 🛠️ Assignment Workflow
 
-### Q.1: Implementing Square Root Feature in CalculatorPlus
+### Q1 - Implementing Square Root Feature
+- Created repository `git_assignment_HeroVired`.
+- Developed square root function and merged into `main`.
+- Addressed a critical bug in `divide` function.
+- Released `v1` and `v2` with reviewed changes.
 
-#### Task:
-- Implement a new feature for calculating the square root of a number.
+### Q2 - Handling Large Files with Git LFS
+- Created a branch `lfs`.
+- Integrated Git LFS to track and push large files.
+- Verified file handling by cloning on another machine.
 
-#### Steps:
-1. Create a repository named `git_assignment_HeroVired`.
-2. Create a `dev` branch and add the following code:
-
-```python
-import math
-
-class Calculator:
-    def add(self, a, b):
-        return a + b
-    
-    def subtract(self, a, b):
-        return a - b
-    
-    def multiply(self, a, b):
-        return a * b
-    
-    def divide(self, a, b):
-        return a / b
-
-    # TODO: Implement square root function
-    def square_root(self, x):
-        return math.sqrt(x)
-```
-
-3. Merge `dev` into `main` and release `v1` of CalculatorPlus.
-4. Add a collaborator.
-5. Create a `feature/sqrt` branch to add the `sqrt` function.
-6. Address a critical bug in the `divide` function:
-
-```python
-def divide(self, a, b):
-    if b == 0:
-        raise ValueError("Cannot divide by zero.")
-    return a / b
-```
-
-7. Merge changes, request a review, and release `v2`.
-
-### Q.2: Handling Large Files with Git LFS
-
-#### Task:
-- Integrate Git LFS to handle large binary files efficiently.
-
-#### Steps:
-1. Create a `lfs` branch in `git_assignment_HeroVired`.
-2. Install Git LFS and track large files:
-
-```sh
-git lfs install
-git lfs track "*.bin"
-```
-
-3. Upload and push a file over 200MB.
-4. Clone on another machine to verify.
-
-### Q.3: Geometry Calculator Using Git Stash
-
-#### Task:
-- Implement a Python program for calculating area of a circle and a rectangle.
-
-#### Steps:
-1. Create a `geometry-calculator` branch.
-2. Work on `circle-area` feature in a new branch:
-
-```python
-class GeometryCalculator:
-    def calculate_circle_area(self, radius):
-        return math.pi * radius ** 2
-```
-
-3. Stash changes and switch to `rectangle-area` branch.
-4. Implement rectangle area function:
-
-```python
-def calculate_rectangle_area(self, length, width):
-    return length * width
-```
-
-5. Retrieve stashed changes and finalize both features.
-6. Push, create pull requests, review, and merge into `main`.
+### Q3 - Geometry Calculator Using Git Stash
+- Implemented area calculation for circle and rectangle.
+- Used `git stash` to switch between features.
+- Completed and merged both features after review.
 
 ## 🤝 Contribution Guidelines
 
