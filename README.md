@@ -125,6 +125,9 @@ _Showcasing key aspects of the project:_
 
 ### Q3 - Geometry Calculator Using Git Stash
 
+- Developed a Geometry Calculator supporting multiple shape computations.
+- Used Git stash to manage multiple development tasks efficiently.
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/fbd9bb22-0d33-4293-9792-90beb01f19d6" width="45%">
   <img src="https://github.com/user-attachments/assets/75a1ee2a-4174-4ac8-892a-a5703b0179ae" width="45%">
