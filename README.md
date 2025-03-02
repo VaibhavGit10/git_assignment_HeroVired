@@ -183,7 +183,7 @@ If you encounter any issues or need help, feel free to open an issue in the repo
 
 ## 🏆 Credits
 
-This project is developed and maintained by [Your Name]. Special thanks to all contributors and reviewers who helped enhance this project.
+This project is developed and maintained by Vaibhav Pawar. Special thanks to all contributors and reviewers who helped enhance this project.
 
 ---
 
